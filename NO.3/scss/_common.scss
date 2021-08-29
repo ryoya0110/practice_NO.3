@@ -1,0 +1,28 @@
+body {
+	color: $txt;
+	font-size: 0.9rem;
+	box-sizing: border-box;
+}
+a {
+	color: $txt;
+}
+img {
+	max-width: 100%;
+}
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.container2 {
+	max-width: 800px;
+	margin: 0 auto;
+}
+.section {
+	margin-bottom: 60px;
+	padding: 60px;
+}
+.section_ttl {
+	font-size: 1.1rem;
+	text-align: center;
+	margin-bottom: 30px;
+}
